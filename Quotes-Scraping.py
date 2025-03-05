@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 28 18:05:43 2025
-
-@author: njosp
-"""
-
 from bs4 import BeautifulSoup
 import requests
 import csv
